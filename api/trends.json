@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T13:59:42.484131+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-06-01T19:45:16.676812+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -76,8 +76,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 19时45分]"
+        },
+        {
+          "title": "伊朗外长：任何一条战线的停火遭破坏等同所有战线停火遭破坏",
+          "url": "https://wallstreetcn.com/livenews/3112390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "伊媒：伊朗将对可能的谅解文本进行新的修改",
@@ -104,6 +115,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时57分]"
+        },
+        {
+          "title": "伊朗外交部长：伊朗与美国的停火明确涵盖所有战线，包括黎巴嫩。 任何一条战线违反停火，等同于所有战线违反停火，美国和以色列将对此后果负责。",
+          "url": "https://wallstreetcn.com/livenews/3112386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "伊朗外交部长：我们不应该重视猜测。",
@@ -279,7 +301,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -304,6 +326,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗外长：停火协议明确覆盖包括黎巴嫩在内的所有战线",
+          "url": "https://flash.jin10.com/detail/20260601190621758800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
@@ -334,7 +378,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -348,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "科威特外交部谴责伊朗对其领土发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3112361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
@@ -372,6 +427,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "伊朗称过去24小时有15艘船只经协调通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3112357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "伊朗总统：在面临重大挑战的情况下，任何社会都不能指望在不承受困难的情况下继续前进。",
           "url": "https://flash.jin10.com/detail/20260531222651091800",
           "source": "金十数据",
@@ -389,7 +455,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -414,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "伊朗：美国协议草案中不包含铀“转移”和“处置”条款。",
+          "url": "https://wallstreetcn.com/livenews/3112351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国财长贝森特：对伊朗的经济围困是施压行动的基本组成部分。",
@@ -491,12 +568,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "伊朗武装部队高级发言人：伊朗武装部队不会容忍针对黎巴嫩的犯罪行为继续发生。",
+          "url": "https://flash.jin10.com/detail/20260601185824253800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -558,9 +646,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 19时45分]"
         },
         {
           "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
@@ -640,7 +728,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -665,6 +753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：内部文件显示，特朗普政府正在制定一项计划，该计划将允许美国移民官员在不面试申请人的情况下迅速驳回一些庇护申请。",
+          "url": "https://flash.jin10.com/detail/20260601190106135800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国总统特朗普：我们也将继续推进与叙利亚和伊拉克政府的战略合作，因此我们与他们的关系将持续加深！",
@@ -706,7 +805,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -734,7 +833,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -774,7 +873,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -810,7 +909,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
