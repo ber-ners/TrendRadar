@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T16:13:33.483884+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-08-11T18:49:01.003679+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 16时13分]"
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 18时49分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 16时13分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 18时49分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 16时13分]"
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 18时49分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -110,6 +110,17 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3148024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
           "url": "https://flash.jin10.com/detail/20260811041240333800",
           "source": "金十数据",
@@ -138,9 +149,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
+          "url": "https://flash.jin10.com/detail/20260811183346473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗最高领袖将任命数名高级指挥官",
@@ -261,6 +283,17 @@
           "time_info": "[00时52分 ~ 01时49分]"
         },
         {
+          "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
+          "url": "https://flash.jin10.com/detail/20260811183204331800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "布伦特原油期货上涨4美元/桶，因伊朗与美国互相提出赔偿要求，霍尔木兹海峡重启希望减弱。",
           "url": "https://flash.jin10.com/detail/20260811020633941800",
           "source": "金十数据",
@@ -300,7 +333,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -358,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "卡塔尔外交发言人：阿曼与伊朗之间的谈判目前已进入“高级阶段”。",
+          "url": "https://flash.jin10.com/detail/20260811182333920800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗副外长：里海的安全不仅仅是一项区域性和内部责任，必须由沿岸国家通过商定的机制来保障。",
@@ -520,7 +564,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -542,7 +586,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -553,7 +597,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -564,7 +608,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -583,8 +627,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 18时49分]"
+        },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
@@ -610,17 +665,6 @@
           "time_info": "[00时52分 ~ 06时34分]"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 16时13分]"
-        },
-        {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
           "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
           "source": "凤凰网",
@@ -639,8 +683,34 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 18时49分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时20分 ~ 16时13分]"
+          "time_info": "[11时40分 ~ 18时49分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 18时49分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -665,20 +735,6 @@
           "time_info": "[04时37分 ~ 06时34分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 16时13分]"
-        },
-        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -689,17 +745,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时20分 ~ 13时04分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 16时13分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -760,6 +805,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811184126216800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "特朗普否认华尔街日报关于他与沃什谈话的报道，称：我非常尊重美联储主席沃什。 几天前还曾与沃什短暂对话过一次。 自从沃什接任美联储主席以来，和他谈过一次。",
           "url": "https://wallstreetcn.com/livenews/3147674",
           "source": "华尔街见闻-快讯",
@@ -790,7 +846,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -1148,7 +1204,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
@@ -1347,6 +1403,17 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 18时49分]"
+        },
+        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
@@ -1359,17 +1426,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[06时33分 ~ 16时13分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 16时13分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -1411,7 +1467,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -1531,48 +1587,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 4,
       "titles": [
         {
-          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2067921583944085650",
-          "source": "知乎",
+          "title": "金价冲上4400美元 黄金股为何跳水",
+          "url": "https://www.toutiao.com/trending/7672685366725316123/",
+          "source": "今日头条",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
+          "time_info": "[18时48分 ~ 18时49分]"
         },
-        {
-          "title": "深度求索开设“DeepSeek Harness团队”公众号",
-          "url": "https://flash.jin10.com/detail/20260811154106380800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
         {
           "title": "金十图示：2026年08月11日（周二）上海金早盘价为961.33元/克，较国际金价(956.87元/克)，高4.46元/克",
           "url": "https://flash.jin10.com/detail/20260811110126674800",
@@ -1605,6 +1633,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "深度求索开设“DeepSeek Harness团队”公众号",
+          "url": "https://flash.jin10.com/detail/20260811154106380800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         }
       ]
     },
