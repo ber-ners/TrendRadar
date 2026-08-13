@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:08:02.096984+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-08-13T14:15:14.383556+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -89,6 +89,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时15分]"
+        },
+        {
           "title": "特朗普：白宫新闻秘书莱维特将卸任，以便有更多时间陪伴家人。莱维特将成为我的高级外部顾问之一。",
           "url": "https://wallstreetcn.com/livenews/3148748",
           "source": "华尔街见闻-快讯",
@@ -115,17 +126,6 @@
           "time_info": "[04时53分 ~ 06时36分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
           "url": "https://flash.jin10.com/detail/20260813035525711800",
           "source": "金十数据",
@@ -148,6 +148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时36分]"
+        },
+        {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 14时15分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统已要求我在外部继续担任他的高级顾问，我将永远是MAGA和共和党的坚定代言人。",
@@ -315,6 +326,30 @@
           "time_info": "[00时54分 ~ 09时31分]"
         },
         {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时15分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时15分]"
+        },
+        {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
           "source": "知乎",
@@ -339,6 +374,19 @@
           "time_info": "[00时54分 ~ 09时31分]"
         },
         {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时15分]"
+        },
+        {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
           "url": "https://www.zhihu.com/question/2070810807168980648",
           "source": "知乎",
@@ -348,29 +396,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 09时31分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -385,18 +410,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时56分 ~ 09时31分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
         },
         {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
@@ -507,8 +520,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时15分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -519,8 +532,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[06时36分 ~ 14时15分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -664,11 +677,24 @@
           "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时15分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2452922",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时15分]"
         },
         {
           "title": "伊朗：目前使用武器都是自主研发的",
@@ -682,18 +708,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 05时42分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
         },
         {
           "title": "伊朗拖美国入不对称战争，“蝴蝶效应”波及日本卷帘门",
@@ -781,7 +795,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -792,8 +806,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时15分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -843,6 +857,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 02时57分]"
+        },
+        {
+          "title": "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪",
+          "url": "https://www.cls.cn/detail/2452850",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 14时15分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
@@ -914,7 +939,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -929,11 +954,12 @@
           "url": "https://www.cls.cn/detail/2452988",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时15分]"
         },
         {
           "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
