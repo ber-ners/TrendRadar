@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:56:07.191169+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-08-14T19:42:41.071105+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 18时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 19时42分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 18时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 19时42分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -47,6 +47,19 @@
           "time_info": "[02时58分 ~ 12时06分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 19时42分]"
+        },
+        {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
@@ -59,19 +72,6 @@
           "time_info": "[02时58分 ~ 09时29分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 18时56分]"
-        },
-        {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
           "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
@@ -80,8 +80,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 19时42分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时06分 ~ 18时56分]"
+          "time_info": "[17时56分 ~ 19时42分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
-        },
-        {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 18时56分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -457,8 +457,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时42分]"
         },
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
@@ -483,6 +483,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 07时37分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时42分]"
         },
         {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
@@ -518,17 +529,6 @@
           "time_info": "12时06分"
         },
         {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 18时56分]"
-        },
-        {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
           "url": "https://news.ifeng.com/c/8vYQf5wseR7",
           "source": "凤凰网",
@@ -552,6 +552,18 @@
           "time_info": "[02时58分 ~ 07时37分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814181940361800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时42分]"
+        },
+        {
           "title": "最年轻新闻秘书，“弃特朗普而去”",
           "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
           "source": "凤凰网",
@@ -572,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
-          "url": "https://flash.jin10.com/detail/20260814181940361800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -653,8 +654,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时42分]"
         },
         {
           "title": "据Axios：OpenAI在IPO前进行高管更换。",
@@ -707,7 +708,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -817,11 +818,12 @@
           "url": "https://wallstreetcn.com/livenews/3149692",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时42分]"
         },
         {
           "title": "美股存储股大涨 闪迪飙升近14%",
@@ -848,8 +850,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时42分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
